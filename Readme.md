@@ -76,7 +76,7 @@
 
 ## Ссылки
 
-- [Репозиторий проекта](https://git.wizardstech.ru/TechWizards/amoCRM_authorizate)
+- [Репозиторий проекта](https://github.com/4min-dev/AmoCRM-Authorizate-Application)
 
 ---
 
