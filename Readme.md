@@ -45,7 +45,7 @@
 1. **Клонирование репозитория**
    - Клонируйте репозиторий:
      ```bash
-     git clone https://git.wizardstech.ru/TechWizards/amoCRM_authorizate
+     git clone https://github.com/4min-dev/AmoCRM-Authorizate-Application
      ```
 
 2. **Установка зависимостей**
